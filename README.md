@@ -20,9 +20,9 @@ I'm also Vice Chairman of the Board at [ESOGU Computer and Information Technolog
 
 * 💻 Skills: C++ / C# / C / HTML
 
-* 🔭 I’m currently working on C# 
+* 🔭 I’m currently working on JAVA, JIRA, ATLASSIAN 
 
-* 🌱 I’m currently learning  HTML, CSS, JS
+* 🌱 I’m currently learning JAVA
 
 * 📫 How to reach me: usluarda58@gmail.com
 
