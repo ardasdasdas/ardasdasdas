@@ -18,16 +18,26 @@ Here are some ideas to get you started:
 Born in 1999 in Tokat. Now, I'm living in Odunpazarı/Eskişehir.
 I'm also Vice Chairman of the Board at [ESOGU Computer and Information Technology Club](http://bbtk.ogu.edu.tr)
 
-* 💻 Skills: C++ / C# / C / HTML
+* 💻 Skills: C++ / C# / C / MySQL / MSSQL / Spring Framework with JAVA
 
-* 🔭 I’m currently working on JAVA, JIRA, ATLASSIAN 
+* 🔭 I’m currently working on JAVA, Spring Framework
 
 * 🌱 I’m currently learning JAVA
 
-* 📫 How to reach me: usluarda58@gmail.com
+* 📫 How to reach me: usluarda58@gmail.com   ![Profile views](https://gpvc.arturio.dev/ardasdasdas)  
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/1" alt="Recent Article 1"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/2" alt="Recent Article 2"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/3" alt="Recent Article 3"> 
  
-![Profile views](https://gpvc.arturio.dev/ardasdasdas)  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/4" alt="Recent Article 4"> 
+ 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/5" alt="Recent Article 5"> 
+ 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ardasdasdas&show_icons=true)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ardasdasdas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muzafferardauslu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ardasdasdas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ardasdassdas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://ardasdasdas.medium.com/)
