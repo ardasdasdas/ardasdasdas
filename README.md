@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ### I am a computer engineer student at Eskişehir Osmangazi University. 
 Born in 1999 in Tokat. Now, I'm living in Odunpazarı/Eskişehir.
-I'm also Vice Chairman of the Board at [ESOGU Computer and Information Technology Club](http://bbtk.ogu.edu.tr)
+
+I'm Software Dveloper Intern at [AVKAR Yazılım San. ve Tic. Ltd. Şti.](http://www.avkaryazilim.com.tr/)
 
 * 💻 Skills: C++ / C# / C / MySQL / MSSQL / Spring Framework with JAVA
 
