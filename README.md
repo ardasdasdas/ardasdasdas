@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I am a computer engineer student at Eskişehir Osmangazi University. 
-Born in 1999 in Tokat. Now, I'm living in Odunpazarı/Eskişehir.
-
-I'm Software Developer Intern at [AVKAR Yazılım San. ve Tic. Ltd. Şti.](http://www.avkaryazilim.com.tr/)
+#### Software Developer at [sahibinden.com](https://www.sahibinden.com/)
 
 * 💻 Skills: C++ / C# / C / MySQL / MSSQL / Spring Framework with JAVA
 
