@@ -16,13 +16,9 @@ Here are some ideas to get you started:
 -->
 #### Software Developer at [sahibinden.com](https://www.sahibinden.com/)
 
-* 💻 Skills: C++ / C# / C / MySQL / MSSQL / Spring Framework with JAVA
+* 📫 How to reach me: usluarda58@gmail.com
 
-* 🔭 I’m currently working on JAVA, Spring Framework
-
-* 🌱 I’m currently learning JAVA
-
-* 📫 How to reach me: usluarda58@gmail.com   ![Profile views](https://gpvc.arturio.dev/ardasdasdas)  
+![Profile views](https://komarev.com/ghpvc/?username=ardasdasdas)  
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/0" alt="Recent Article 0"> 
 
@@ -30,12 +26,9 @@ Here are some ideas to get you started:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/2" alt="Recent Article 2"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/3" alt="Recent Article 3"> 
- 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/4" alt="Recent Article 4"> 
- 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ardasdasdas/5" alt="Recent Article 5"> 
- 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> <a href="https://www.jenkins.io" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> </p>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ardasdasdas&show_icons=true)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ardasdasdas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muzafferardauslu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ardasdasdas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ardasdassdas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://ardasdasdas.medium.com/)
